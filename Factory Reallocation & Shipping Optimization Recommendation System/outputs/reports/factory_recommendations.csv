@@ -1,0 +1,16 @@
+Product Name,CurrentFactory,RecommendedFactory,CurrentLeadTime,NewLeadTime,ImprovementPercent,ProfitImpact,RiskScore,RecommendationScore
+Everlasting Gobstopper,Wicked Choccy's,Sugar Shack,5,1,80.0,7873,9,50.118249999999996
+Wonka Bar -Scrumdiddlyumptious,The Other Factory,Wicked Choccy's,4,1,75.0,1775,7,45.893750000000004
+Wonka Bar - Nutty Crunch Surprise,Sugar Shack,Lot's O' Nuts,7,2,71.43,8099,8,45.18275
+Nerds,Sugar Shack,Lot's O' Nuts,6,2,66.67,4843,9,41.36275
+Wonka Bar - Milk Chocolate,Secret Factory,Wicked Choccy's,5,2,60.0,7235,2,39.008750000000006
+Hair Toffee,The Other Factory,Secret Factory,4,2,50.0,8989,1,33.59725
+Wonka Bar - Fudge Mallows,The Other Factory,Lot's O' Nuts,6,3,50.0,9226,9,32.4565
+Lickable Wallpaper,Sugar Shack,Wicked Choccy's,6,3,50.0,4943,2,32.43575
+Fun Dip,Secret Factory,Wicked Choccy's,4,2,50.0,6675,7,32.11875
+Fizzy Lifting Drinks,Sugar Shack,The Other Factory,6,4,33.33,8555,5,22.88675
+Wonka Bar - Triple Dazzle Caramel,The Other Factory,Secret Factory,7,5,28.57,6486,4,19.6635
+Laffy Taffy,The Other Factory,Secret Factory,4,3,25.0,4073,8,16.318250000000003
+Wonka Gum,Wicked Choccy's,Secret Factory,5,4,20.0,4152,8,13.338000000000001
+SweeTARTS,Secret Factory,Lot's O' Nuts,6,5,16.67,2021,9,10.657250000000001
+Kazookles,Sugar Shack,The Other Factory,7,6,14.29,2585,5,9.97025
