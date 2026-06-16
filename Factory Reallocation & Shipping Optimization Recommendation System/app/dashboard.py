@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
 # ----------------------------------
 # PAGE CONFIG
@@ -15,22 +16,23 @@ st.set_page_config(
 # LOAD DATA
 # ----------------------------------
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+
 df = pd.read_csv(
-    "../outputs/reports/final_nassau_dataset.csv"
+    BASE_DIR / "outputs" / "reports" / "final_nassau_dataset.csv"
 )
 
 recommendations = pd.read_csv(
-    "../outputs/reports/factory_recommendations.csv"
+    BASE_DIR / "outputs" / "reports" / "factory_recommendations.csv"
 )
 
 kpi = pd.read_csv(
-    "../outputs/reports/kpi_summary.csv"
+    BASE_DIR / "outputs" / "reports" / "kpi_summary.csv"
 )
 
 original_df = pd.read_csv(
-    "../data/Nassau_Candy_Distributor.csv"
+    BASE_DIR / "data" / "Nassau_Candy_Distributor.csv"
 )
-
 # ----------------------------------
 # SIDEBAR
 # ----------------------------------
